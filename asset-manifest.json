@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/css/main.60ce7cde.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/main.0a06334e.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/main.0a06334e.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/runtime-main.dd24db0a.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/runtime-main.dd24db0a.js.map",
-    "static/js/2.a19004e8.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/2.a19004e8.chunk.js",
-    "static/js/2.a19004e8.chunk.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/2.a19004e8.chunk.js.map",
-    "static/js/3.2847e1c7.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/3.2847e1c7.chunk.js",
-    "static/js/3.2847e1c7.chunk.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/3.2847e1c7.chunk.js.map",
-    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/index.html",
-    "static/css/main.60ce7cde.chunk.css.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/css/main.60ce7cde.chunk.css.map",
-    "static/js/2.a19004e8.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/js/2.a19004e8.chunk.js.LICENSE.txt",
-    "static/media/scan_banner-mb.7dcda181.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/media/scan_banner-mb.7dcda181.png",
-    "static/media/scan_banner-pc.8120333d.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.120315/static/media/scan_banner-pc.8120333d.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/css/main.2c8f25d8.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/main.e78f1b9c.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/main.e78f1b9c.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/runtime-main.bf8e1d03.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/runtime-main.bf8e1d03.js.map",
+    "static/js/2.295044fb.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/2.295044fb.chunk.js",
+    "static/js/2.295044fb.chunk.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/2.295044fb.chunk.js.map",
+    "static/js/3.2847e1c7.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/3.2847e1c7.chunk.js",
+    "static/js/3.2847e1c7.chunk.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/3.2847e1c7.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/index.html",
+    "static/css/main.2c8f25d8.chunk.css.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/css/main.2c8f25d8.chunk.css.map",
+    "static/js/2.295044fb.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/2.295044fb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/media/Padauk-Bold.0b4bb8b5.ttf",
+    "static/media/scan_banner-mb.7dcda181.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/media/scan_banner-mb.7dcda181.png",
+    "static/media/scan_banner-pc.8120333d.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/media/scan_banner-pc.8120333d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd24db0a.js",
-    "static/js/2.a19004e8.chunk.js",
-    "static/css/main.60ce7cde.chunk.css",
-    "static/js/main.0a06334e.chunk.js"
+    "static/js/runtime-main.bf8e1d03.js",
+    "static/js/2.295044fb.chunk.js",
+    "static/css/main.2c8f25d8.chunk.css",
+    "static/js/main.e78f1b9c.chunk.js"
   ]
 }
