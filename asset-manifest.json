@@ -1,25 +1,20 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/css/main.2c8f25d8.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/main.e78f1b9c.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/main.e78f1b9c.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/runtime-main.bf8e1d03.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/runtime-main.bf8e1d03.js.map",
-    "static/js/2.295044fb.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/2.295044fb.chunk.js",
-    "static/js/2.295044fb.chunk.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/2.295044fb.chunk.js.map",
-    "static/js/3.2847e1c7.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/3.2847e1c7.chunk.js",
-    "static/js/3.2847e1c7.chunk.js.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/3.2847e1c7.chunk.js.map",
-    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/index.html",
-    "static/css/main.2c8f25d8.chunk.css.map": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/css/main.2c8f25d8.chunk.css.map",
-    "static/js/2.295044fb.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/js/2.295044fb.chunk.js.LICENSE.txt",
-    "static/media/index.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/media/Padauk-Bold.0b4bb8b5.ttf",
-    "static/media/scan_banner-mb.7dcda181.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/media/scan_banner-mb.7dcda181.png",
-    "static/media/scan_banner-pc.8120333d.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210825.142302/static/media/scan_banner-pc.8120333d.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/css/main.078a578c.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/js/main.5cbfb727.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/js/runtime-main.da6a3e8b.js",
+    "static/js/2.1fded0fa.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/js/2.1fded0fa.chunk.js",
+    "static/js/3.6bf76abb.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/js/3.6bf76abb.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/index.html",
+    "static/js/2.1fded0fa.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/js/2.1fded0fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/media/Padauk-Bold.0b4bb8b5.ttf",
+    "static/media/scan_banner-mb.7dcda181.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/media/scan_banner-mb.7dcda181.png",
+    "static/media/scan_banner-pc.8120333d.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20210826.092942/static/media/scan_banner-pc.8120333d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf8e1d03.js",
-    "static/js/2.295044fb.chunk.js",
-    "static/css/main.2c8f25d8.chunk.css",
-    "static/js/main.e78f1b9c.chunk.js"
+    "static/js/runtime-main.da6a3e8b.js",
+    "static/js/2.1fded0fa.chunk.js",
+    "static/css/main.078a578c.chunk.css",
+    "static/js/main.5cbfb727.chunk.js"
   ]
 }
