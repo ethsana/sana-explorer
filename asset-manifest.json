@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/css/main.bf539faf.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/js/main.98e84375.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/js/runtime-main.4af500b3.js",
-    "static/css/2.b99653bd.chunk.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/css/2.b99653bd.chunk.css",
-    "static/js/2.b7610167.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/js/2.b7610167.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/index.html",
-    "static/js/2.b7610167.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/js/2.b7610167.chunk.js.LICENSE.txt",
-    "static/media/index.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/media/Padauk-Bold.0b4bb8b5.ttf",
-    "static/media/no-data.3da79653.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/media/no-data.3da79653.png",
-    "static/media/scan_banner-mb.7dcda181.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/media/scan_banner-mb.7dcda181.png",
-    "static/media/scan_banner-pc.8120333d.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211014.202858/static/media/scan_banner-pc.8120333d.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/css/main.6c6fa795.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/js/main.479984b6.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/js/runtime-main.f5e2213f.js",
+    "static/css/2.b99653bd.chunk.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/css/2.b99653bd.chunk.css",
+    "static/js/2.fc6d5e6d.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/js/2.fc6d5e6d.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/index.html",
+    "static/js/2.fc6d5e6d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/js/2.fc6d5e6d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/media/Padauk-Bold.0b4bb8b5.ttf",
+    "static/media/no-data.3da79653.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/media/no-data.3da79653.png",
+    "static/media/scan_banner-mb.7dcda181.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/media/scan_banner-mb.7dcda181.png",
+    "static/media/scan_banner-pc.8120333d.png": "https://cdn.jsdelivr.net/gh/ethsana/sana-explorer@20211015.164934/static/media/scan_banner-pc.8120333d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4af500b3.js",
+    "static/js/runtime-main.f5e2213f.js",
     "static/css/2.b99653bd.chunk.css",
-    "static/js/2.b7610167.chunk.js",
-    "static/css/main.bf539faf.chunk.css",
-    "static/js/main.98e84375.chunk.js"
+    "static/js/2.fc6d5e6d.chunk.js",
+    "static/css/main.6c6fa795.chunk.css",
+    "static/js/main.479984b6.chunk.js"
   ]
 }
